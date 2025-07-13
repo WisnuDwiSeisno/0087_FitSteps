@@ -42,6 +42,12 @@ dependencies:
   google_maps_flutter: ^2.6.0
   flutter_polyline_points: ^2.0.0
   cupertino_icons: ^1.0.8
+  geolocator: ^10.1.0
+  pedometer: ^4.0.1  # Versi stabil terbaru per Juli 2025
+  intl: ^0.18.1
+  fl_chart: ^0.63.0
+
+
 
 dev_dependencies:
   flutter_test:
